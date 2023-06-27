@@ -1,1 +1,1 @@
-## Background Image Tutorial
+## Background Image Project
