@@ -12,7 +12,7 @@ body {
 }
 
 .header-title {
-  max-width: 90vw;
+  width: 90vw;
   max-width: 1170px;
   margin: 0 auto;
   padding: 50px;
@@ -23,36 +23,28 @@ body {
   letter-spacing: 2;
 }
 
-article {
-  max-width: 90vw;
+img {
+  width: 100%;
+}
+
+.blogs-center {
+  width: 90vw;
+  max-width: 1170px;
   margin: 0 auto;
 }
 
-.blogs1 {
-  height: 500px;
-  width: 500px;
+.blogs {
+  margin: 0 auto;
   background-color: white;
   margin-bottom: 50px;
-}
-
-img {
-  width: 480px;
-  height: 300px;
-  margin: 10px 10px;
-}
-
-.blogs2 {
-  height: 500px;
-  width: 500px;
-  background-color: white;
-  margin-bottom: 50px;
+  padding: 0.75rem;
 }
 
 span,
 h3,
 p,
 a {
-  margin: 0 10px;
+  margin: 5px 10px;
 }
 
 span {
